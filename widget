@@ -1,0 +1,17 @@
+<div style="text-align: center;"><a href="https://www.zigideal.com/" target="_blank"><img border="0" src="https://blogger.googleusercontent.com/img/a/AVvXsEjYoxgPj3dSZ35BF3ZAIQq4Laf0e9hXd0AGjOR4CO7d8fwrZvayOV8Iw4AMmYcnHwpP5P1ksJuCrp1Qso4sMLaJqf-yqOeZC2CXAiNIuSnCEhWqUfjxrfnPeEeM2SvEYWe1NHKd7TQib9anpEbI9c40HJ_8LYfuNvOuq80-87GnEkycerHLfueUJGRPeg=w131-h49" /></a></div> 
+<script src="https://switchere.com/js/widget.js"></script>
+<div id="switchere"></div>
+<script>
+    window.initSwitchere("#switchere", {
+        "r": "m61twbrx3dg4",
+        "t": "light",
+        "tcol": "7863AD",
+        "lang": "en",
+        "sz": "sm",
+        "rate": true,
+        "no_brd": true,
+        "in": "card,crypto",
+        "mode": "custom",
+        "width": "320"
+});
+</script>
